@@ -7,8 +7,7 @@ transacting customers for its food delivery business.e
 partners on Zomato's platform have also increased by 
 8.7% year-on-year, from 208,000 to 226,000​.
 
-# EDA (Exploratory Data Analysis) and visualization, and answer the 
-following questions:
+# EDA (Exploratory Data Analysis) and visualization, and answer the following questions:
 
 
 1) What type of restaurant do the majority of customers order from?
