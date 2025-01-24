@@ -1,4 +1,4 @@
-# Zoamto-Data-Analysis
+# Zomato_Data_Analysis_Using_Python
 # Data Analysis Project Using Python
 
 Zomato has an average of 17.5 million monthly 
